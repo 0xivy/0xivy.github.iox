@@ -1,0 +1,19 @@
+# Site settings
+title: 0xs4m
+description: Personal Portfolio of 0xs4m
+
+
+# User settings
+username: sam
+user_description: Final year student in Information Technology. Much interested in the field of Fullstack Development, previously into Cybersecurity gaining knowledge on Networking, Web Application Security, Deployment of applications and much more handy skills developed along the way.
+user_title: student
+email: samwovian18@gmail.com
+twitter_username: frozenowo
+github_username:  0xs4m
+linkedin_username:  sam1337
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
