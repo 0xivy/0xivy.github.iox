@@ -14,7 +14,7 @@ The Theme features:
 - Info Customization
 
 ## Live Site
-- *[Click here](https://0xs4m.github.io)*.
+- *[Click here](https://0xivy.github.io)*.
 
 ## Credits
 
